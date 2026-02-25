@@ -1,0 +1,14 @@
+# requirements.txt
+streamlit==1.28.0
+boto3==1.34.0
+opencv-python==4.8.1.78
+mediapipe==0.10.9
+numpy==1.24.3
+tensorflow==2.13.0
+reportlab==4.0.4
+matplotlib==3.7.2
+pandas==2.0.3
+pillow==10.0.0
+protobuf==3.20.3
+scikit-learn==1.3.0
+scipy==1.11.3

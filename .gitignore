@@ -1,0 +1,45 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Node
+backend/node_modules/
+cipt-frontend/node_modules/
+node_modules/
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+backend/temp/
+backend/temp_audio/
+backend/temp_grammar_audio/
+backend/uploads/
+backend/videos/
+backend/cache/
+
+# Reports and analysis data
+backend/accuracy_reports/
+backend/analysis_data/
+backend/professional_reports/
+backend/user_sessions/
+*.pdf
+
+# Models
+*.h5
+models/
